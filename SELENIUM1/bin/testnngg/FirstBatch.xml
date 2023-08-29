@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MR.x (4)">
+	<test name="DemoSite Result ">
+		<classes>
+			<class name="testng.HowManyLInksInTestingDemoSite">
+				<methods>
+					<include name="f"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Dropdown Result">
+		<classes>
+			<class name="testng.SeletechDropdown">
+				<methods>
+					<include name="f"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Pratice Result">
+		<classes>
+			<class name="testng.Pratice">
+				<methods>
+					<include name="FillupTextboxes"></include>
+					<include name="Open_new_window"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Google Result">
+		<classes>
+			<class name="testng.GoogleWebtables">
+				<methods>
+					<include name="HandelTheWindow"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sorga_Datanprovider">
+	<test name="Result">
+		<classes>
+			<parameter name="abc" value="standard_user"></parameter>
+			<parameter name= "pqr" value ="secret_sauce"></parameter>
+			<class name="testnngg.SorgaValidateUsingXML">
+				<methods>
+					<include name="f"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Results">
+		<classes>
+			<parameter name="abc" value="userneame"></parameter>
+			<parameter name= "pqr" value ="passweew"></parameter>
+			<class name="testnngg.SorgaValidateUsingXML">
+				<methods>
+					<include name="f"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Resulti">
+		<classes>
+			<parameter name="abc" value="standard_user"></parameter>
+			<parameter name= "pqr" value ="secret_sauce"></parameter>
+			<class name="testnngg.SorgaValidateUsingXML">
+				<methods>
+					<include name="f"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

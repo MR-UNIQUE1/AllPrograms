@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pratice folder">
+	<test name="Pratice info ">
+		<classes>
+			<class name="testng.Pratice">
+				<methods>
+					<include name="FillupTextboxes"></include>
+					<include name="Open_new_window"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sorga_Datanprovider]">
+  <test thread-count="5" name="Results(failed)">
+    <parameter name="pqr" value="passweew"/>
+    <parameter name="abc" value="userneame"/>
+    <classes>
+      <class name="testnngg.SorgaValidateUsingXML">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="f" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testnngg.SorgaValidateUsingXML -->
+    </classes>
+  </test> <!-- Results(failed) -->
+</suite> <!-- Failed suite [Sorga_Datanprovider] -->

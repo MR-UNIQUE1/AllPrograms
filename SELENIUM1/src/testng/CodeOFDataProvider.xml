@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Data_Provider_result">
+<test name = "Info_dataProvider">
+<classes>
+<class name ="testnngg.DataProviderExx">
+<methods>
+<include name = ""></include>
+</methods>
+</class>
+</classes>
+</test>
+</suite>
