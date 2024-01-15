@@ -1,0 +1,10 @@
+package general.utility.programs;
+
+public class Swap_Two_number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

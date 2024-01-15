@@ -1,0 +1,29 @@
+package general.utility.programs;
+
+import java.util.Scanner;
+
+public class Pascale_Triangle {
+
+	public static int fact(int num) {
+		int f = 1, i = 1;
+		while (i<=num) {
+			f = f*i;
+			i++;
+		}
+		return f;
+
+	}
+	
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter how many lines of piramid are want to creat ");
+		int line = s.nextInt();
+		for (int i = 0; i <line; i++) {
+			for (int j = 0; j <line-i-1; j--) {
+				System.out.println(" ");
+			}
+		}
+	}
+
+}

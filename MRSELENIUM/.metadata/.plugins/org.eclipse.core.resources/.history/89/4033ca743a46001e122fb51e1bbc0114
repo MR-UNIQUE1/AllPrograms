@@ -1,0 +1,14 @@
+package com.java.oopsconcepat;
+
+import java.util.Iterator;
+
+public class Ex24 {
+	public static void main(String[] args) {
+		int count =0;
+		int [ ] 5 = {2,3,4,5,6};
+		for (int i = 0; i < args.length; i++) {
+			
+				
+			}
+		}
+	}

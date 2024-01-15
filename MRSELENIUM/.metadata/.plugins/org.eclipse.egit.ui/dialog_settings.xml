@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/MR-UNIQUE1/AllPrograms.git"/>
+		<item value="https://github.com/MR-UNIQUE1/All_Programs.git"/>
+		<item value="https://github.com/MR-UNIQUE1/PageObjectModel.git"/>
+		<item value="https://github.com/MR-UNIQUE1/com.tcs.code.advjava.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="MRUNIQUE &lt;sparida617@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="MRUNIQUE &lt;sparida617@gmail.com&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\SONU\git\All_Programs\.git">
+			<item value="false"/>
+			<item value="MRUNIQUE &lt;sparida617@gmail.com&gt;"/>
+			<item value="a"/>
+			<item value="MRUNIQUE &lt;sparida617@gmail.com&gt;"/>
+			<item value="7b2bb52893f7d376f0900360238d907a4a72c0b9"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
